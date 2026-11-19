@@ -72,6 +72,6 @@ To bridge **Artificial Intelligence with Offensive Security**, I deployed a loca
 * Hands-on proficiency with both CLI (`pdf2john`, `john`) and GUI (`Johnny`) password auditing workflows.
 * Practical experience in building **AI-assisted security pipelines** using MCP servers to automate repetitive reconnaissance and auditing tasks.
 
-  Github Link:
+  Github Link: https://github.com/mohaiminul1185/NETWORKWALKS-B084-WK3-CYBERSECURITY-INTERNSHIP-/tree/main
 
   Linked in: 
