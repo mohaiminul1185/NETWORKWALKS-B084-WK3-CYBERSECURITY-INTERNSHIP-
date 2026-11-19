@@ -74,4 +74,4 @@ To bridge **Artificial Intelligence with Offensive Security**, I deployed a loca
 
   Github Link: https://github.com/mohaiminul1185/NETWORKWALKS-B084-WK3-CYBERSECURITY-INTERNSHIP-/tree/main
 
-  Linked in: 
+  Linked in: https://lnkd.in/p/gXj6uyUG
